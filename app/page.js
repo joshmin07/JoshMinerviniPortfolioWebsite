@@ -24,14 +24,14 @@ export default function Home() {
       title: "Personal Portfolio Website",
       description: "A modern portfolio website to showcase my projects and skills. Using Next.js for server-side rendering and optimized performance.",
       technologies: ["Next.js", "HTML", "CSS", "JavaScript", "GitHub"],
-      link: "#"
+      link: "https://github.com/joshmin07/JoshMinerviniPortfolioWebsite"
     },
     {
       id: 3,
       title: "C, C++, Python, Java, JavaScript projects.",
       description: "Multiple projects and assignments completed during my coursework in various programming languages including C, C++, Python, Java, and scripting languages.",
       technologies: ["C", "C++", "Python", "Java", "JavaScript"],
-      link: "#"
+      link: "https://github.com/joshmin07"
     }
   ];
 
